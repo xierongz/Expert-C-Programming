@@ -1,4 +1,0 @@
-I:\��Ƭ������ļ�\C���������ϰ\Expert-C-Programming\��ϰ\chapter8\training8.9.c:1:23: fatal error: sys/filio.h: No such file or directory
- #include <sys/filio.h>
-                       ^
-compilation terminated.
